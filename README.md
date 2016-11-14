@@ -1,4 +1,4 @@
-## tempel
+https://github.com/sindresorhus/awesome-nodejs/pull/617/files## tempel
 
 Simple. Works. Vala. <3.
 
@@ -21,6 +21,9 @@ $ make
 $ echo 'hahaha' | ./tempel
 $ ./tempel
 hahaha
+hihi
+he
+Ctrl+D
 
 ```
 

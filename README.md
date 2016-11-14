@@ -4,11 +4,11 @@ Simple. Works. Vala. <3.
 
 ## roadmap
 
-[x] simple stdin upload
-[ ] version check
-[ ] language option
-[ ] put link in clipboard
-[ ] automatically open the browser option
+- [x] simple stdin upload
+- [ ] version check
+- [ ] language option
+- [ ] put link in clipboard
+- [ ] automatically open the browser option
 
 ## build and run
 

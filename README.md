@@ -10,6 +10,9 @@ Simple. Works. Vala. <3.
 - [ ] language option
 - [ ] put link in clipboard
 - [ ] automatically open the browser option
+- [ ] fetch raw content
+- [ ] render content with text highlighting
+- [ ] owned tempel list
 
 ## build and run
 

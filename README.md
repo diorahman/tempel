@@ -4,7 +4,8 @@ Simple. Works. Vala. <3.
 
 ## roadmap
 
-- [x] simple stdin upload
+- [x] simple stdin upload `$ echo 'hihi' | ./tempel`
+- [x] multiline stdin upload `$ cat README.md | ./tempel`
 - [ ] version check
 - [ ] language option
 - [ ] put link in clipboard
